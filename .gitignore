@@ -1,0 +1,16 @@
+﻿__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# datasets/models (never commit)
+data/
+*.zip
+*.keras
+*.h5
+*.tflite
+*.onnx
+models/
+
+# editor
+.vscode/
+.DS_Store
